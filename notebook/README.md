@@ -1,0 +1,1 @@
+Make sure that the config.py file has the right file pathes for weater and corona data before running notebook
